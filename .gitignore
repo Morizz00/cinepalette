@@ -40,3 +40,9 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 .gstack/
+
+# AI tooling / editor-local config — not meant to be shared or diffed
+AGENTS.md
+CLAUDE.md
+.cursorindexingignore
+.specstory/
